@@ -61,11 +61,14 @@
 <p align="left"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
 <p align="left"><img title="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaj33t&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
 
-![](https://github-profile-trophy.vercel.app/?username=vishwaj33t&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwaj33t&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwaj33t&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwaj33t&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
+
+![](https://github-profile-trophy.vercel.app/?username=vishwaj33t&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ![Vishwajeet's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaj33t&custom_title=Vishwajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
