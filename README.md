@@ -1,6 +1,6 @@
 
 <h1 align="center">
-![Header](./Images/github-header-image.png
+![Header](./Images/github-header-image.png)
 </h1>  
 
 # 💫 About Me:
