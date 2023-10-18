@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>  
+
 ![Header](./Images/github-header-image.png)
+
 # 💫 About Me:
 
 - 🌱 I’m currently learning **AI/ML**  
