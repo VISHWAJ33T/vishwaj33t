@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 - 🌱 I’m currently learning **AI/ML**
-- 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](portfolio.vishwajeet.me)
+- 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](https://portfolio.vishwajeet.me/)
 - 💬 Ask me about **MERN**
 - 📫 How to reach me **vishwajeety14122@gmail.com**
 
