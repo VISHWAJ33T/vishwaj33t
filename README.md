@@ -2,21 +2,20 @@
   <img src="./github-header-image.png" title="header">
 </p> -->
 
-<p align="left"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
-
-# 💫 About Me:
+<!-- # 💫 About Me: -->
 
 - 🌱 I’m currently learning **AI/ML**
 - 👯 I’m looking to collaborate with other web developers
 - 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](portfolio.vishwajeet.me)
 - 💬 Ask me about **MERN**
 - 📫 Say Hi via **vishwajeety14122@gmail.com**
-
+<br>
+<hr>
+<br>
 <!-- ## 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaj33t) -->
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack: -->
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -58,6 +57,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<!-- <br> -->
+<hr>
+<!-- <br> -->
+
+<p align="left"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
 
 <!-- # 📊 GitHub Stats:
 
