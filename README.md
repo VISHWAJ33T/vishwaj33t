@@ -9,9 +9,9 @@
 - 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](portfolio.vishwajeet.me)
 - 💬 Ask me about **MERN**
 - 📫 Say Hi via **vishwajeety14122@gmail.com**
-<br>
+<!-- <br> -->
 <hr>
-<br>
+<!-- <br> -->
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaj33t) -->
 
