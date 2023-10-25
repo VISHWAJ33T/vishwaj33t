@@ -1,17 +1,19 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./github-header-image.png" title="header">
-</p>
+</p> -->
+<p align="right"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
 
 # 💫 About Me:
 
 - 🌱 I’m currently learning **AI/ML**
+- 👯 I’m looking to collaborate with other web developers
 - 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](portfolio.vishwajeet.me)
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **vishwajeety14122@gmail.com**
+- 📫 Say Hi via **vishwajeety14122@gmail.com**
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaj33t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaj33t) -->
 
 # 💻 Tech Stack:
 
@@ -56,7 +58,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <p align="left"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
 <p align="left"><img title="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaj33t&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
@@ -71,4 +73,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=vishwaj33t&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-![Vishwajeet's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaj33t&custom_title=Vishwajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Vishwajeet's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaj33t&custom_title=Vishwajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
