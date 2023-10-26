@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 - 👯 I’m looking to collaborate with other web developers
-- 👨‍💻 All of my projects are available at [portfolio.vishwajeet.me](portfolio.vishwajeet.me)
+- 👨‍💻 All of my projects are available at [vishwajeet.me](www.vishwajeet.me)
 - 💬 Ask me about **MERN**
 - 📫 Say Hi via **vishwajeety14122@gmail.com**
 <!-- <br> -->
