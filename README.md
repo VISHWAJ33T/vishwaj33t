@@ -4,7 +4,7 @@
 
 <!-- # 💫 About Me: -->
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate with other web developers
 - 👨‍💻 All of my projects are available at [vishwajeet.me](https://www.vishwajeet.me/)
 - 💬 Ask me about **MERN**
@@ -62,7 +62,7 @@
 <hr>
 <!-- <br> -->
 
-<p align="left"><img title="profile views" src="https://visitcount.itsvg.in/api?id=vishwaj33t&icon=0&color=12"></p>
+[![](https://visitcount.itsvg.in/api?id=VISHWAJ33T&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- # 📊 GitHub Stats:
 
