@@ -4,7 +4,7 @@
 
 <!-- # 💫 About Me: -->
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web3**
 - 👯 I’m looking to collaborate with other web developers
 - 👨‍💻 All of my projects are available at [vishwajeet.me](https://www.vishwajeet.me/)
 - 💬 Ask me about **MERN**
