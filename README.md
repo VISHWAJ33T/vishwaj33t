@@ -36,9 +36,9 @@
 <!-- <br> -->
 ## 📊 GitHub Stats  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VISHWAJ33T.vishwaj33t)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=vishwaj33t&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=vishwaj33t&show_icons=true&theme=github_dark&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaj33t&layout=compact&theme=github_dark&langs_count=8)
+![trophies](https://github-profile-trophy.vercel.app?username=vishwaj33t&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=vishwaj33t&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=vishwaj33t&layout=compact&theme=github_dark&langs_count=8)
 ![Vishwajeet's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaj33t&custom_title=Vishwajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!-- <br> -->
