@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps & AI**
 - 👯 I’m looking to collaborate with other web developers
-- 👨‍💻 All of my projects are available at [vishwajeet.me](https://www.vishwaj33t.vercel.app/)
+- 👨‍💻 All of my projects are available at [vishwajeet.me](https://vishwaj33t.vercel.app/)
 - 💬 Ask me about **Fullstack**
 - 📫 Say Hi via **vishwajeety14122@gmail.com**
 <!-- <br> -->
