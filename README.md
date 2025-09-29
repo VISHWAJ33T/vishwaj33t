@@ -7,24 +7,6 @@
 # 👋 Hi, I'm Vishwajeet Yadav  
 ### Software Engineer · AI Automation · Developer Tooling · Backend Systems  
 
-<p align="center">
-  <a href="https://vishwaj33t.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/vishwaj33t" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishwaj33t" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vishwajeety14122@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/vlshwaj33t" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 What I build
