@@ -1,48 +1,193 @@
-<!-- <p align="center">
-  <img src="./github-header-image.png" title="header">
-</p> -->
+<p align="right">
+  <a href="https://wakatime.com/@018b42c7-3d63-4dfc-95ca-f965a88a7628" target="_blank" rel="noopener noreferrer">
+    <img src="https://wakatime.com/badge/user/018b42c7-3d63-4dfc-95ca-f965a88a7628.svg" alt="WakaTime Total Coding Time" />
+  </a>
+</p>
 
-<!-- # 💫 About Me: -->
+# 👋 Hi, I'm Vishwajeet Yadav  
+### Software Engineer · AI Automation · Developer Tooling · Backend Systems  
 
-- 🌱 I’m currently learning **DevOps & AI**
-- 👯 I’m looking to collaborate with other web developers
-- 👨‍💻 All of my projects are available at [vishwajeet.me](https://vishwaj33t.vercel.app/)
-- 💬 Ask me about **Fullstack**
-- 📫 Say Hi via **vishwajeety14122@gmail.com**
-<!-- <br> -->
-<!-- <hr> -->
-<!-- <br> -->
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaj33t) -->
+<p align="center">
+  <a href="https://vishwaj33t.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/vishwaj33t" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishwaj33t" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishwajeety14122@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/vlshwaj33t" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  </a>
+</p>
 
-<!-- # 💻 Tech Stack: -->
-<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
--->
+---
 
-<!-- <br> -->
-## 📊 GitHub Stats  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VISHWAJ33T.vishwaj33t)
+## 🚀 What I build
+- Reusable libraries and developer frameworks  
+- End-to-end web & mobile applications  
+- Automated CI/CD pipelines and deployment tooling  
+- Custom AI agents and workflow automations
 
-![trophies](https://github-profile-trophy.vercel.app?username=vishwaj33t&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=vishwaj33t&show_icons=true&theme=github_dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=vishwaj33t&theme=github_dark&langs_count=6)
-![Vishwajeet's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwaj33t&custom_title=Vishwajeet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
 
-<!-- <br> -->
-## 📊 Wakatime Stats  [![wakatime](https://wakatime.com/badge/user/018b42c7-3d63-4dfc-95ca-f965a88a7628.svg)](https://wakatime.com/@018b42c7-3d63-4dfc-95ca-f965a88a7628)
+## 💼 Experience
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=vishwaj33t&theme=github_dark&layout=compact)
+### Microfox — Software Engineer (Mar 2025 - Present · Remote)  
+Developer tooling and AI systems for secure generation, packaging, and deployment of agents.
+
+<details>
+<summary><strong>Core projects & repos</strong></summary>
+
+- Microfox SDKs & Tooling — integrations, packaging, and docs automation.  
+  Repo: [https://github.com/microfox-ai/microfox](https://github.com/microfox-ai/microfox)
+- AiRouter (2025) — TypeScript-first alternative to LangChain focused on typed tool definitions and local dev ergonomics.  
+  Repo: [https://github.com/microfox-ai/ai-router](https://github.com/microfox-ai/ai-router)
+- CodeLoop (AI Coding Agents) — coding assistants and developer workflows.  
+  Repo: [https://github.com/microfox-ai/codeloop](https://github.com/microfox-ai/codeloop)
+- MediaMake (AI Video Agents) — web-based video agent tooling (in progress).  
+  Repo: [https://github.com/microfox-ai/mediamake](https://github.com/microfox-ai/mediamake)
+- X-Framework (2025) — auth protocol & toolkit for agent-to-agent and app-to-app scenarios (in progress).  
+  Repo: [https://github.com/microfox-ai/x-framework/](https://github.com/microfox-ai/x-framework/)
+</details>
+
+<details>
+<summary><strong>Highlights & responsibilities</strong></summary>
+
+- Architected multi-model pipelines (Claude, Gemini) + RAG for converting prompts into deployable agents.  
+- Built an automated package generation and documentation pipeline, indexed for natural-language search.  
+- Published 50+ SDKs for Slack, Sheets, GitHub, Discord, WhatsApp, Twitter, AWS SES, and more.  
+- Developed CLI tooling and a deployment console (CLI + dashboard) with realtime log streaming (SSE).  
+- Reduced deployment time by ~40% using smart hash–based dependency caching.  
+- Managed long-running background agents using AWS SQS and Upstash Redis.  
+- Implemented platform-specific OAuth & API key wrappers to convert package functions into secure tools.
+</details>
+
+---
+
+### TheMoonDevs — Full Stack Developer (Mar 2024 - Feb 2025 · Bengaluru · Remote)
+
+<details>
+<summary><strong>Core projects & responsibilities</strong></summary>
+
+- Sense AI (2024) — AI educational app (standalone project; not part of Microfox).  
+  Play Store: [https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN](https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN)  
+  - Built personalized quiz pipelines, vector search for content matching, and a secure realtime chatbot.  
+  - Implemented mobile authentication and staged deployment workflows.
+- Deployment platform on DigitalOcean  
+  - Built a Vercel-style CI/CD flow for monorepos on VPS with preview deploys and automated Lighthouse checks.
+- Internal dashboards & automation SDKs  
+  - CMS, hiring workflows, and SDKs for AWS SES, Slack, Google Sheets — deployed to DigitalOcean Functions.
+- Web scraping & content pipelines  
+  - Puppeteer pipelines to aggregate trending articles for automated newsletters.
+</details>
+
+---
+
+### Freelance — Stellary AI (Apr 2024 - Jul 2024) & Minimatch (May 2024 - Oct 2024)
+
+<details>
+<summary><strong>Stellary AI — Generative media dApp</strong></summary>
+- Built image & audio generation features using Model Labs APIs.  
+- Implemented realtime creation UX, prompt debouncing, and scalable social interactions.  
+- Live: [https://app.stellaryai.com](https://app.stellaryai.com)
+</details>
+
+<details>
+<summary><strong>Minimatch — Web3 game</strong></summary>
+- High-performance leaderboard with Firestore, dynamic scoring, and pagination.  
+- Integrated Coinbase SDK for Web3 auth and Paymaster-based gasless payments.  
+- Embedded Discord chat for real-time community support.  
+- Live: [https://minimatch.gg](https://minimatch.gg)
+</details>
+
+---
+
+## 📦 Personal projects
+
+<details>
+<summary><strong>IMVT — Media catalog & streaming</strong></summary>
+- Next.js app for movies, TV, live TV, and anime.  
+- Combined 10+ APIs via GraphQL resolvers to return minimal, frontend-ready payloads.  
+- Realtime sync via Supabase.  
+- Live: [https://imvt.vercel.app](https://imvt.vercel.app) · GitHub: [https://github.com/vishwaj33t/imvt](https://github.com/vishwaj33t/imvt)
+</details>
+
+<details>
+<summary><strong>Gupta Crockery — Shop management PWA</strong></summary>
+- Admin dashboard, product search, multilingual support, Redux cart.  
+- Technical SEO improvements and performance optimizations.  
+- Live: [https://gupta-crockery.vercel.app](https://gupta-crockery.vercel.app) · GitHub: [https://github.com/vishwaj33t/gupta-crockery](https://github.com/vishwaj33t/gupta-crockery)
+</details>
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://www.serverless.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Serverless_Framework-000000?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless Framework"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  </a>
+  <a href="https://firebase.google.com/products/firestore" target="_blank">
+    <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Firestore"/>
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinecone-1F2937?style=for-the-badge&logo=database&logoColor=white" alt="Pinecone"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  </a>
+  <a href="https://www.digitalocean.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/REST" target="_blank">
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+  </a>
+  <a href="https://pptr.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Puppeteer-D93F0B?style=for-the-badge&logo=chromium&logoColor=white" alt="Puppeteer"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Links
+
+- Website: https://vishwaj33t.com  
+- GitHub: https://github.com/vishwaj33t  
+- LinkedIn: https://www.linkedin.com/in/vishwaj33t  
+- Email: vishwajeety14122@gmail.com  
+- X / Twitter: https://x.com/vlshwaj33t
