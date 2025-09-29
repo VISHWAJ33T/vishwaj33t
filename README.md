@@ -26,13 +26,13 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
 <summary><strong>Core projects & repos</strong></summary>
 
 - Microfox SDKs & Tooling — integrations, packaging, and docs automation.  
-  Repo: [https://github.com/microfox-ai/microfox](https://github.com/microfox-ai/microfox)
+  Repo: [https://github.com/microfox-ai/microfox](https://github.com/microfox-ai/microfox)  
 - AiRouter (2025) — TypeScript-first alternative to LangChain focused on typed tool definitions and local dev ergonomics.  
-  Repo: [https://github.com/microfox-ai/ai-router](https://github.com/microfox-ai/ai-router)
+  Repo: [https://github.com/microfox-ai/ai-router](https://github.com/microfox-ai/ai-router)  
 - CodeLoop (AI Coding Agents) — coding assistants and developer workflows.  
-  Repo: [https://github.com/microfox-ai/codeloop](https://github.com/microfox-ai/codeloop)
+  Repo: [https://github.com/microfox-ai/codeloop](https://github.com/microfox-ai/codeloop)  
 - MediaMake (AI Video Agents) — web-based video agent tooling (in progress).  
-  Repo: [https://github.com/microfox-ai/mediamake](https://github.com/microfox-ai/mediamake)
+  Repo: [https://github.com/microfox-ai/mediamake](https://github.com/microfox-ai/mediamake)  
 - X-Framework (2025) — auth protocol & toolkit for agent-to-agent and app-to-app scenarios (in progress).  
   Repo: [https://github.com/microfox-ai/x-framework/](https://github.com/microfox-ai/x-framework/)
 </details>
@@ -56,16 +56,14 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
 <details>
 <summary><strong>Core projects & responsibilities</strong></summary>
 
-- Sense AI (2024) — AI educational app (standalone project; not part of Microfox).  
-  Play Store: [https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN](https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN)  
-  - Built personalized quiz pipelines, vector search for content matching, and a secure realtime chatbot.  
-  - Implemented mobile authentication and staged deployment workflows.
 - Deployment platform on DigitalOcean  
-  - Built a Vercel-style CI/CD flow for monorepos on VPS with preview deploys and automated Lighthouse checks.
+  - Built a Vercel-style CI/CD flow for monorepos on VPS with preview deploys and automated Lighthouse checks.  
 - Internal dashboards & automation SDKs  
-  - CMS, hiring workflows, and SDKs for AWS SES, Slack, Google Sheets — deployed to DigitalOcean Functions.
+  - Developed CMS and hiring workflows plus SDKs for AWS SES, Slack, and Google Sheets, deployed to DigitalOcean Functions.  
 - Web scraping & content pipelines  
-  - Puppeteer pipelines to aggregate trending articles for automated newsletters.
+  - Built Puppeteer pipelines to aggregate trending content and power automated newsletters.  
+- Knowledge sharing and mentoring  
+  - Authored technical articles and ran internal sessions on CI/CD, decentralized CI/CD security, and AI integration.  
 </details>
 
 ---
@@ -74,39 +72,60 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
 
 <details>
 <summary><strong>Stellary AI — Generative media dApp</strong></summary>
-- Built image & audio generation features using Model Labs APIs.  
-- Implemented realtime creation UX, prompt debouncing, and scalable social interactions.  
+
+- Implemented image and audio generation features using Model Labs APIs with low-latency response flows.  
+- Built real-time generation UX with prompt debouncing, request batching, and optimistic UI updates.  
+- Designed scalable social features (follows, upvotes) and optimized database queries for high read/write throughput.  
+- Improved delivery and caching strategies for generated media to reduce bandwidth and latency.
 - Live: [https://app.stellaryai.com](https://app.stellaryai.com)
 </details>
 
 <details>
 <summary><strong>Minimatch — Web3 game</strong></summary>
-- High-performance leaderboard with Firestore, dynamic scoring, and pagination.  
-- Integrated Coinbase SDK for Web3 auth and Paymaster-based gasless payments.  
-- Embedded Discord chat for real-time community support.  
+
+- Built a high-performance leaderboard with dynamic scoring and efficient pagination backed by Firestore.  
+- Integrated Coinbase SDK for wallet-based auth and added a Paymaster solution for gasless transactions.  
+- Implemented on-chain randomness using Supra dVRF for fair gameplay.  
+- Embedded a Discord widget for real-time community support and moderation.  
 - Live: [https://minimatch.gg](https://minimatch.gg)
 </details>
 
 ---
 
-## 📦 Personal projects
+## 📦 Personal & other projects
+
+<details>
+<summary><strong>Sense AI — AI educational app</strong></summary>
+
+- Personalized learning app that generates quizzes and learning feeds based on user progress.  
+- Multi-model pipeline for content generation and enrichment with RAG and vector search (Pinecone).  
+- Realtime chat and adaptive learning flows powered by Socket.IO.  
+- Mobile app built with Expo/React Native; secure auth and staged deployments on VPS.  
+- Play Store: [https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN](https://play.google.com/store/apps/details?id=com.themoondevs.sense&hl=en_IN)
+</details>
 
 <details>
 <summary><strong>IMVT — Media catalog & streaming</strong></summary>
-- Next.js app for movies, TV, live TV, and anime.  
-- Combined 10+ APIs via GraphQL resolvers to return minimal, frontend-ready payloads.  
-- Realtime sync via Supabase.  
+
+- Next.js + TypeScript streaming catalog for movies, TV, live TV, and anime.  
+- Aggregates 10+ external APIs and normalizes responses via GraphQL resolvers to return minimal frontend payloads.  
+- Frontend state with Zustand; backend data modeling with Prisma and PostgreSQL.  
+- Realtime client sync through Supabase.  
 - Live: [https://imvt.vercel.app](https://imvt.vercel.app) · GitHub: [https://github.com/vishwaj33t/imvt](https://github.com/vishwaj33t/imvt)
 </details>
 
 <details>
 <summary><strong>Gupta Crockery — Shop management PWA</strong></summary>
-- Admin dashboard, product search, multilingual support, Redux cart.  
-- Technical SEO improvements and performance optimizations.  
+
+- Progressive Web App with admin dashboard for inventory, orders, and pricing.  
+- Advanced product search with filters and sorting, Redux-managed cart, and multilingual support.  
+- Implemented technical SEO best practices (structured data, meta tags, image optimizations) to improve organic visibility.  
+- Focused on mobile-first performance and accessibility using Next.js optimizations.  
 - Live: [https://gupta-crockery.vercel.app](https://gupta-crockery.vercel.app) · GitHub: [https://github.com/vishwaj33t/gupta-crockery](https://github.com/vishwaj33t/gupta-crockery)
 </details>
 
 ---
+
 
 ## 🔧 Tech Stack
 
