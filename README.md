@@ -1,8 +1,8 @@
-<p align="right">
+<!-- <p align="right">
   <a href="https://wakatime.com/@018b42c7-3d63-4dfc-95ca-f965a88a7628" target="_blank" rel="noopener noreferrer">
     <img src="https://wakatime.com/badge/user/018b42c7-3d63-4dfc-95ca-f965a88a7628.svg" alt="WakaTime Total Coding Time" />
   </a>
-</p>
+</p> -->
 
 # 👋 Hi, I'm Vishwajeet Yadav  
 ### Software Engineer · AI Automation · Developer Tooling · Backend Systems  
@@ -110,7 +110,7 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
 
 ## 🔧 Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
@@ -119,9 +119,6 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -138,12 +135,6 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
   <a href="https://redis.io/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   </a>
-  <a href="https://firebase.google.com/products/firestore" target="_blank">
-    <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Firestore"/>
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinecone-1F2937?style=for-the-badge&logo=database&logoColor=white" alt="Pinecone"/>
-  </a>
   <a href="https://www.prisma.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   </a>
@@ -155,9 +146,6 @@ Developer tooling and AI systems for secure generation, packaging, and deploymen
   </a>
   <a href="https://graphql.org/" target="_blank">
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/REST" target="_blank">
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
   </a>
   <a href="https://pptr.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Puppeteer-D93F0B?style=for-the-badge&logo=chromium&logoColor=white" alt="Puppeteer"/>
